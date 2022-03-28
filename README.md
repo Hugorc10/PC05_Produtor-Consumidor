@@ -1,2 +1,4 @@
 # Produtor Consumidor
-Projeto do problema de produtor e consumidor em programação concorrente
+Projeto do problema do produtor consumidor em programação concorrente
+
+![Programa em execução](./animacao-produtor-consumidor.gif)
